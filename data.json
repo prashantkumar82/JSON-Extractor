@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Massachusetts General Hospital",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zipcode": "02114",
+      "phone": "(617) 726-2000",
+      "website": "https://www.massgeneral.org"
+    },
+    {
+      "name": "Johns Hopkins Hospital", 
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zipcode": "21287",
+      "phone": "(410) 955-5000",
+      "website": "https://www.hopkinsmedicine.org"
+    },
+    {
+      "name": "Cleveland Clinic",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "zipcode": "44195",
+      "phone": "(800) 223-2273",
+      "website": "https://my.clevelandclinic.org"
+    }
+  ]
+  
