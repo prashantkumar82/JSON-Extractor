@@ -63,7 +63,7 @@ No installation is required for this web-based application. Simply follow the us
 
 ## Contributing
 
-If you would like to contribute to this project or report issues, please visit the [GitHub repository](https://github.com/yourusername/json-to-csv-converter) and follow the contribution guidelines.
+If you would like to contribute to this project or report issues, please visit the [GitHub repository](https://github.com/prashantkumar82/json-to-csv-converter) and follow the contribution guidelines.
 
 ## License
 
